@@ -21,7 +21,7 @@ For more information <a href="https://docs.google.com/document/d/16s0wVOWBpKCq3F
 * connect arduino to the computer through the cable.
 * with vs-code terminal placed in the python folder
 * execute the command python3 graph.py
-
 <br/>
 
 <img src="https://github.com/AndreaZavatta/Smart-bridge/blob/main/doc/Latex-doc/tinkercad.png" width="500px">
+
